@@ -34,6 +34,8 @@ await ctx.send("Hello!")
 
 (Identical — handled by the compatibility layer.)
 
+---
+
 ### Editing a Message
 
 **Discord.py**
@@ -46,13 +48,20 @@ await message.edit(content="Updated")
 await message.edit(content="Updated")
 ```
 
+---
+
 ### Fetching a User
-Discord.py
 
-python
+**Discord.py**
+```python
 user = await bot.fetch_user(id)
-revoltcord.py
+```
 
-python
+**revoltcord.py**
+```python
 user = await bot.fetch_user(id)
+```
+
+---
+
 More mappings will be added as the library evolves.
