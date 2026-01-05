@@ -56,7 +56,7 @@ bot.run("YOUR_REVOLT_BOT_TOKEN")
 
 ## 🤝 Contributing
 Contributions are welcome!
-Please read the [Contribution](CONTRIBUTION.md) file for guidelines on how to get started.
+Please read the [Contribution](CONTRIBUTING.md) file for guidelines on how to get started.
 
 ---
 
