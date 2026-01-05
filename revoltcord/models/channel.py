@@ -1,2 +1,11 @@
+"""
+Channel model
+Represents a Revolt channel.
+"""
+
 class Channel:
-    pass
+    def __init__(self, id: str):
+        self.id = id
+
+    async def send(self, content: str):
+        raise NotImplementedError("Channel.send() has not been implemented yet.")
