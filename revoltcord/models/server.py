@@ -1,2 +1,2 @@
-class Message:
+class Server:
     pass
