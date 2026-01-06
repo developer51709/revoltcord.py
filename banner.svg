@@ -1,7 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="32">
-  <rect width="100%" height="32" fill="#444"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="white">
-    🚨 IMPORTANT: This project is still under development.
+  <rect width="100%" height="32" fill="#444" />
+
+  <text y="50%" dominant-baseline="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="14" fill="white">
+    <tspan>
+      <animate attributeName="x"
+               from="100%" to="-100%"
+               dur="10s"
+               repeatCount="indefinite" />
+      🚨 IMPORTANT: This project is still under early development.
+    </tspan>
   </text>
 </svg>
