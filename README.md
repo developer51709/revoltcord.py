@@ -1,3 +1,5 @@
+![Important](https://img.shields.io/badge/🚨_IMPORTANT-This_project_is_still_under_early_development-red)
+
 # revoltcord.py
 
 **revoltcord.py** is an open‑source Python library designed to make Discord.py‑style bots run on the Revolt chat platform with little to no code changes.  
