@@ -1,4 +1,5 @@
-![Important](https://img.shields.io/badge/🚨_IMPORTANT-This_project_is_still_under_early_development-red)
+![Important Notice](./banner.svg)
+<!--![Important](https://img.shields.io/badge/🚨_IMPORTANT-This_project_is_still_under_early_development-red)-->
 
 # revoltcord.py
 
